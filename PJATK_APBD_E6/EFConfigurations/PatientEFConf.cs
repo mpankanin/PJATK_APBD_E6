@@ -8,6 +8,11 @@ public class PatientEFConf : IEntityTypeConfiguration<Patient>
 {
     public void Configure(EntityTypeBuilder<Patient> builder)
     {
-        throw new NotImplementedException();
+        builder.HasKey(p => p.IdPatient);
+        builder.Property(p => p.FirstName).HasMaxLength(100);
+
+        builder.Property(p => p.LastName).HasMaxLength(100);
+
+        builder.Property(p => p.BirthDate);
     }
 }
