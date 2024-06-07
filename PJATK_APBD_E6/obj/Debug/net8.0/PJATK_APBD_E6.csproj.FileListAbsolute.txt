@@ -136,3 +136,4 @@ C:\Users\panka\OneDrive\Dokumenty\IT-Projekty\PJATK\PJATK_APBD\PJATK_APBD_E6\PJA
 C:\Users\panka\OneDrive\Dokumenty\IT-Projekty\PJATK\PJATK_APBD\PJATK_APBD_E6\PJATK_APBD_E6\obj\Debug\net8.0\PJATK_APBD_E6.pdb
 C:\Users\panka\OneDrive\Dokumenty\IT-Projekty\PJATK\PJATK_APBD\PJATK_APBD_E6\PJATK_APBD_E6\obj\Debug\net8.0\PJATK_APBD_E6.genruntimeconfig.cache
 C:\Users\panka\OneDrive\Dokumenty\IT-Projekty\PJATK\PJATK_APBD\PJATK_APBD_E6\PJATK_APBD_E6\obj\Debug\net8.0\ref\PJATK_APBD_E6.dll
+C:\Users\panka\OneDrive\Dokumenty\IT-Projekty\PJATK\PJATK_APBD\PJATK_APBD_E6\PJATK_APBD_E6\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
